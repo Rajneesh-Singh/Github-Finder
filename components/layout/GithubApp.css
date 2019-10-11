@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.navbar{
+    background:darkblue;
+    height:45px;
+    color:white;
+    padding-left: 25px;
+    
+    padding-top:8 px;
+}
+h1{
+    font-size:20px;
+}

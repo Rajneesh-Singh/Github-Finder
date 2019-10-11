@@ -1,0 +1,39 @@
+.user{
+    width:100%;
+    padding-left:10px;
+ 
+    
+    
+}
+.user img{
+    height:50px;
+    width:50px;
+
+    border-radius: 50%;
+}
+
+.full{
+   
+     border: 1px solid lightgray;
+ 
+    margin-top: 20px;
+    padding-bottom:5px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+.full1{
+    height:20px;
+    width:50px;
+    background:black;
+    text-align: center;
+   margin-left:44%;
+   margin-top:8px;
+    
+   
+}
+.full1 a{
+    color:white;
+    text-decoration: none;
+}
